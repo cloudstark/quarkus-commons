@@ -7,7 +7,7 @@
   <parent>
     <artifactId>quarkus-commons</artifactId>
     <groupId>solutions.cloudstark.quarkus</groupId>
-    <version>0.1.0</version>
+    <version>1.0.0-SNAPSHOT</version>
   </parent>
 
   <packaging>pom</packaging>
