@@ -45,6 +45,9 @@ import io.quarkus.runtime.StartupEvent;
 import lombok.extern.slf4j.Slf4j;
 import solutions.cloudstark.quarkus.commons.kafka.annotations.KafkaAdminConfig;
 
+// The source comes from Spring Kafka
+// https://github.com/spring-projects/spring-kafka
+
 @Slf4j
 @ApplicationScoped
 public class KafkaAdmin {
